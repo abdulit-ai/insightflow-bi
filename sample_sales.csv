@@ -1,0 +1,361 @@
+order_id,order_date,customer,segment,region,product,category,quantity,unit_price
+LINE-00001,2026-10-07,Bright Ventures,Business,South,Office Desk,Furniture,5,120000.00
+LINE-00002,2026-04-26,Lagos Wholesale,Business,South,Office Desk,Furniture,2,120000.00
+LINE-00003,2026-08-02,Kano Merchants,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00004,2026-07-20,Delta Trading,Business,West,Office Desk,Furniture,2,120000.00
+LINE-00005,2026-04-14,Cedar Retail,Retail,East,Ergonomic Chair,Furniture,1,85000.00
+LINE-00006,2026-02-05,Golden Market,Retail,West,Ergonomic Chair,Furniture,1,85000.00
+LINE-00007,2026-03-08,Golden Market,Retail,West,Printer Paper,Stationery,2,11000.00
+LINE-00008,2026-04-30,Ivory Goods,Retail,North,Notebook Pack,Stationery,4,6500.00
+LINE-00009,2026-01-07,Cedar Retail,Retail,East,Ergonomic Chair,Furniture,3,85000.00
+LINE-00010,2026-02-10,Kano Merchants,Retail,North,Notebook Pack,Stationery,5,6500.00
+LINE-00011,2026-03-05,Ivory Goods,Retail,North,Notebook Pack,Stationery,5,6500.00
+LINE-00012,2026-04-14,Golden Market,Retail,West,Office Desk,Furniture,3,120000.00
+LINE-00013,2026-08-08,Bright Ventures,Business,South,Laptop Pro,Electronics,4,450000.00
+LINE-00014,2026-07-13,Futura Ltd,Business,South,Office Desk,Furniture,3,120000.00
+LINE-00015,2026-04-28,Golden Market,Retail,West,Office Desk,Furniture,2,120000.00
+LINE-00016,2026-10-02,Evergreen Shop,Retail,North,Ergonomic Chair,Furniture,4,85000.00
+LINE-00017,2026-04-12,Amina Stores,Retail,North,Ergonomic Chair,Furniture,1,85000.00
+LINE-00018,2026-07-24,Futura Ltd,Business,South,Printer Paper,Stationery,1,11000.00
+LINE-00019,2026-09-13,Horizon Supplies,Business,East,Office Desk,Furniture,5,120000.00
+LINE-00020,2026-08-07,Delta Trading,Business,West,Bookshelf,Furniture,2,72000.00
+LINE-00021,2026-05-05,Kano Merchants,Retail,North,Monitor 24,Electronics,4,135000.00
+LINE-00022,2026-04-29,Evergreen Shop,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00023,2026-08-11,Amina Stores,Retail,North,Laptop Pro,Electronics,4,450000.00
+LINE-00024,2026-08-14,Kano Merchants,Retail,North,Notebook Pack,Stationery,2,6500.00
+LINE-00025,2026-08-22,Kano Merchants,Retail,North,Laptop Pro,Electronics,3,450000.00
+LINE-00026,2026-02-13,Kano Merchants,Retail,North,Printer Paper,Stationery,2,11000.00
+LINE-00027,2026-10-13,Golden Market,Retail,West,Ergonomic Chair,Furniture,1,85000.00
+LINE-00028,2026-03-02,Jade Enterprise,Business,West,Office Desk,Furniture,3,120000.00
+LINE-00029,2026-02-06,Ivory Goods,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00030,2026-09-24,Delta Trading,Business,West,Office Desk,Furniture,1,120000.00
+LINE-00031,2026-09-17,Horizon Supplies,Business,East,Printer Paper,Stationery,4,11000.00
+LINE-00032,2026-07-25,Lagos Wholesale,Business,South,Monitor 24,Electronics,4,135000.00
+LINE-00033,2026-06-18,Lagos Wholesale,Business,South,Wireless Mouse,Electronics,2,18000.00
+LINE-00034,2026-09-24,Ivory Goods,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00035,2026-06-20,Ivory Goods,Retail,North,Wireless Mouse,Electronics,1,18000.00
+LINE-00036,2026-05-29,Kano Merchants,Retail,North,Monitor 24,Electronics,4,135000.00
+LINE-00037,2026-02-16,Horizon Supplies,Business,East,Office Desk,Furniture,4,120000.00
+LINE-00038,2026-03-10,Delta Trading,Business,West,Laptop Pro,Electronics,3,450000.00
+LINE-00039,2026-01-12,Horizon Supplies,Business,East,Ergonomic Chair,Furniture,2,85000.00
+LINE-00040,2026-01-16,Jade Enterprise,Business,West,Bookshelf,Furniture,4,72000.00
+LINE-00041,2026-02-06,Amina Stores,Retail,North,Ergonomic Chair,Furniture,1,85000.00
+LINE-00042,2026-01-30,Golden Market,Retail,West,Laptop Pro,Electronics,3,450000.00
+LINE-00043,2026-06-17,Horizon Supplies,Business,East,Printer Paper,Stationery,4,11000.00
+LINE-00044,2026-01-18,Futura Ltd,Business,South,Ergonomic Chair,Furniture,3,85000.00
+LINE-00045,2026-01-13,Lagos Wholesale,Business,South,Ergonomic Chair,Furniture,3,85000.00
+LINE-00046,2026-03-03,Ivory Goods,Retail,North,Wireless Mouse,Electronics,3,18000.00
+LINE-00047,2026-04-14,Bright Ventures,Business,South,Wireless Mouse,Electronics,5,18000.00
+LINE-00048,2026-08-20,Cedar Retail,Retail,East,Notebook Pack,Stationery,4,6500.00
+LINE-00049,2026-09-22,Kano Merchants,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00050,2026-07-18,Delta Trading,Business,West,Printer Paper,Stationery,5,11000.00
+LINE-00051,2026-07-18,Evergreen Shop,Retail,North,Ergonomic Chair,Furniture,1,85000.00
+LINE-00052,2026-09-19,Evergreen Shop,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00053,2026-05-27,Futura Ltd,Business,South,Printer Paper,Stationery,3,11000.00
+LINE-00054,2026-09-21,Jade Enterprise,Business,West,Printer Paper,Stationery,2,11000.00
+LINE-00055,2026-01-18,Golden Market,Retail,West,Printer Paper,Stationery,5,11000.00
+LINE-00056,2026-06-13,Futura Ltd,Business,South,Ergonomic Chair,Furniture,5,85000.00
+LINE-00057,2026-06-20,Golden Market,Retail,West,Office Desk,Furniture,5,120000.00
+LINE-00058,2026-09-11,Cedar Retail,Retail,East,Printer Paper,Stationery,1,11000.00
+LINE-00059,2026-01-03,Lagos Wholesale,Business,South,Monitor 24,Electronics,1,135000.00
+LINE-00060,2026-09-29,Ivory Goods,Retail,North,Printer Paper,Stationery,1,11000.00
+LINE-00061,2026-05-09,Horizon Supplies,Business,East,Notebook Pack,Stationery,5,6500.00
+LINE-00062,2026-05-20,Evergreen Shop,Retail,North,Monitor 24,Electronics,1,135000.00
+LINE-00063,2026-09-02,Golden Market,Retail,West,Wireless Mouse,Electronics,2,18000.00
+LINE-00064,2026-05-31,Bright Ventures,Business,South,Bookshelf,Furniture,3,72000.00
+LINE-00065,2026-08-22,Kano Merchants,Retail,North,Ergonomic Chair,Furniture,2,85000.00
+LINE-00066,2026-07-13,Horizon Supplies,Business,East,Notebook Pack,Stationery,1,6500.00
+LINE-00067,2026-08-31,Ivory Goods,Retail,North,Monitor 24,Electronics,4,135000.00
+LINE-00068,2026-04-21,Ivory Goods,Retail,North,Notebook Pack,Stationery,1,6500.00
+LINE-00069,2026-08-13,Bright Ventures,Business,South,Monitor 24,Electronics,2,135000.00
+LINE-00070,2026-05-20,Delta Trading,Business,West,Office Desk,Furniture,3,120000.00
+LINE-00071,2026-04-25,Jade Enterprise,Business,West,Office Desk,Furniture,1,120000.00
+LINE-00072,2026-04-24,Kano Merchants,Retail,North,Notebook Pack,Stationery,5,6500.00
+LINE-00073,2026-09-06,Cedar Retail,Retail,East,Ergonomic Chair,Furniture,4,85000.00
+LINE-00074,2026-10-16,Golden Market,Retail,West,Printer Paper,Stationery,5,11000.00
+LINE-00075,2026-06-01,Delta Trading,Business,West,Wireless Mouse,Electronics,3,18000.00
+LINE-00076,2026-05-10,Golden Market,Retail,West,Laptop Pro,Electronics,4,450000.00
+LINE-00077,2026-05-23,Bright Ventures,Business,South,Monitor 24,Electronics,2,135000.00
+LINE-00078,2026-06-05,Amina Stores,Retail,North,Ergonomic Chair,Furniture,4,85000.00
+LINE-00079,2026-01-26,Kano Merchants,Retail,North,Ergonomic Chair,Furniture,2,85000.00
+LINE-00080,2026-03-07,Amina Stores,Retail,North,Office Desk,Furniture,2,120000.00
+LINE-00081,2026-05-10,Futura Ltd,Business,South,Monitor 24,Electronics,1,135000.00
+LINE-00082,2026-03-02,Bright Ventures,Business,South,Ergonomic Chair,Furniture,2,85000.00
+LINE-00083,2026-06-22,Jade Enterprise,Business,West,Laptop Pro,Electronics,4,450000.00
+LINE-00084,2026-05-29,Amina Stores,Retail,North,Laptop Pro,Electronics,3,450000.00
+LINE-00085,2026-09-07,Jade Enterprise,Business,West,Notebook Pack,Stationery,5,6500.00
+LINE-00086,2026-07-02,Golden Market,Retail,West,Notebook Pack,Stationery,5,6500.00
+LINE-00087,2026-05-23,Horizon Supplies,Business,East,Office Desk,Furniture,1,120000.00
+LINE-00088,2026-01-11,Futura Ltd,Business,South,Notebook Pack,Stationery,1,6500.00
+LINE-00089,2026-02-02,Kano Merchants,Retail,North,Wireless Mouse,Electronics,2,18000.00
+LINE-00090,2026-01-01,Golden Market,Retail,West,Office Desk,Furniture,4,120000.00
+LINE-00091,2026-01-08,Evergreen Shop,Retail,North,Ergonomic Chair,Furniture,4,85000.00
+LINE-00092,2026-04-16,Ivory Goods,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00093,2026-06-27,Golden Market,Retail,West,Notebook Pack,Stationery,2,6500.00
+LINE-00094,2026-06-13,Bright Ventures,Business,South,Printer Paper,Stationery,5,11000.00
+LINE-00095,2026-01-01,Amina Stores,Retail,North,Laptop Pro,Electronics,1,450000.00
+LINE-00096,2026-07-25,Ivory Goods,Retail,North,Office Desk,Furniture,5,120000.00
+LINE-00097,2026-01-14,Kano Merchants,Retail,North,Wireless Mouse,Electronics,3,18000.00
+LINE-00098,2026-07-13,Kano Merchants,Retail,North,Bookshelf,Furniture,4,72000.00
+LINE-00099,2026-02-27,Ivory Goods,Retail,North,Ergonomic Chair,Furniture,1,85000.00
+LINE-00100,2026-06-26,Golden Market,Retail,West,Wireless Mouse,Electronics,2,18000.00
+LINE-00101,2026-01-20,Golden Market,Retail,West,Printer Paper,Stationery,1,11000.00
+LINE-00102,2026-02-01,Lagos Wholesale,Business,South,Wireless Mouse,Electronics,1,18000.00
+LINE-00103,2026-05-26,Kano Merchants,Retail,North,Office Desk,Furniture,1,120000.00
+LINE-00104,2026-07-21,Ivory Goods,Retail,North,Ergonomic Chair,Furniture,4,85000.00
+LINE-00105,2026-02-25,Lagos Wholesale,Business,South,Monitor 24,Electronics,3,135000.00
+LINE-00106,2026-03-15,Cedar Retail,Retail,East,Notebook Pack,Stationery,2,6500.00
+LINE-00107,2026-03-19,Evergreen Shop,Retail,North,Monitor 24,Electronics,1,135000.00
+LINE-00108,2026-03-02,Delta Trading,Business,West,Notebook Pack,Stationery,3,6500.00
+LINE-00109,2026-01-30,Ivory Goods,Retail,North,Notebook Pack,Stationery,3,6500.00
+LINE-00110,2026-02-15,Evergreen Shop,Retail,North,Wireless Mouse,Electronics,1,18000.00
+LINE-00111,2026-01-08,Delta Trading,Business,West,Office Desk,Furniture,4,120000.00
+LINE-00112,2026-06-15,Amina Stores,Retail,North,Printer Paper,Stationery,1,11000.00
+LINE-00113,2026-03-08,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,4,85000.00
+LINE-00114,2026-08-30,Cedar Retail,Retail,East,Wireless Mouse,Electronics,5,18000.00
+LINE-00115,2026-03-05,Futura Ltd,Business,South,Printer Paper,Stationery,1,11000.00
+LINE-00116,2026-03-24,Horizon Supplies,Business,East,Wireless Mouse,Electronics,1,18000.00
+LINE-00117,2026-01-14,Bright Ventures,Business,South,Printer Paper,Stationery,5,11000.00
+LINE-00118,2026-06-05,Amina Stores,Retail,North,Printer Paper,Stationery,1,11000.00
+LINE-00119,2026-02-21,Bright Ventures,Business,South,Laptop Pro,Electronics,4,450000.00
+LINE-00120,2026-09-22,Cedar Retail,Retail,East,Monitor 24,Electronics,2,135000.00
+LINE-00121,2026-03-10,Jade Enterprise,Business,West,Monitor 24,Electronics,3,135000.00
+LINE-00122,2026-01-03,Amina Stores,Retail,North,Wireless Mouse,Electronics,1,18000.00
+LINE-00123,2026-09-16,Futura Ltd,Business,South,Ergonomic Chair,Furniture,2,85000.00
+LINE-00124,2026-08-01,Bright Ventures,Business,South,Laptop Pro,Electronics,5,450000.00
+LINE-00125,2026-10-05,Golden Market,Retail,West,Notebook Pack,Stationery,3,6500.00
+LINE-00126,2026-01-12,Delta Trading,Business,West,Ergonomic Chair,Furniture,3,85000.00
+LINE-00127,2026-06-20,Golden Market,Retail,West,Notebook Pack,Stationery,3,6500.00
+LINE-00128,2026-01-28,Cedar Retail,Retail,East,Office Desk,Furniture,5,120000.00
+LINE-00129,2026-07-05,Evergreen Shop,Retail,North,Wireless Mouse,Electronics,2,18000.00
+LINE-00130,2026-04-03,Delta Trading,Business,West,Ergonomic Chair,Furniture,4,85000.00
+LINE-00131,2026-07-03,Bright Ventures,Business,South,Ergonomic Chair,Furniture,1,85000.00
+LINE-00132,2026-05-22,Kano Merchants,Retail,North,Office Desk,Furniture,3,120000.00
+LINE-00133,2026-07-11,Evergreen Shop,Retail,North,Ergonomic Chair,Furniture,1,85000.00
+LINE-00134,2026-08-12,Evergreen Shop,Retail,North,Bookshelf,Furniture,5,72000.00
+LINE-00135,2026-06-26,Jade Enterprise,Business,West,Laptop Pro,Electronics,3,450000.00
+LINE-00136,2026-02-03,Delta Trading,Business,West,Printer Paper,Stationery,5,11000.00
+LINE-00137,2026-02-03,Jade Enterprise,Business,West,Office Desk,Furniture,3,120000.00
+LINE-00138,2026-05-14,Futura Ltd,Business,South,Laptop Pro,Electronics,5,450000.00
+LINE-00139,2026-02-14,Futura Ltd,Business,South,Bookshelf,Furniture,1,72000.00
+LINE-00140,2026-06-20,Amina Stores,Retail,North,Printer Paper,Stationery,2,11000.00
+LINE-00141,2026-04-16,Delta Trading,Business,West,Bookshelf,Furniture,2,72000.00
+LINE-00142,2026-06-09,Amina Stores,Retail,North,Wireless Mouse,Electronics,1,18000.00
+LINE-00143,2026-09-06,Lagos Wholesale,Business,South,Office Desk,Furniture,1,120000.00
+LINE-00144,2026-01-29,Kano Merchants,Retail,North,Ergonomic Chair,Furniture,4,85000.00
+LINE-00145,2026-08-13,Horizon Supplies,Business,East,Bookshelf,Furniture,4,72000.00
+LINE-00146,2026-02-07,Delta Trading,Business,West,Office Desk,Furniture,3,120000.00
+LINE-00147,2026-08-05,Futura Ltd,Business,South,Bookshelf,Furniture,5,72000.00
+LINE-00148,2026-04-26,Golden Market,Retail,West,Bookshelf,Furniture,5,72000.00
+LINE-00149,2026-06-26,Cedar Retail,Retail,East,Office Desk,Furniture,2,120000.00
+LINE-00150,2026-06-01,Jade Enterprise,Business,West,Printer Paper,Stationery,2,11000.00
+LINE-00151,2026-04-16,Horizon Supplies,Business,East,Monitor 24,Electronics,1,135000.00
+LINE-00152,2026-10-12,Delta Trading,Business,West,Notebook Pack,Stationery,4,6500.00
+LINE-00153,2026-05-14,Delta Trading,Business,West,Ergonomic Chair,Furniture,3,85000.00
+LINE-00154,2026-07-14,Ivory Goods,Retail,North,Wireless Mouse,Electronics,3,18000.00
+LINE-00155,2026-09-16,Evergreen Shop,Retail,North,Office Desk,Furniture,4,120000.00
+LINE-00156,2026-03-31,Horizon Supplies,Business,East,Printer Paper,Stationery,1,11000.00
+LINE-00157,2026-05-21,Futura Ltd,Business,South,Ergonomic Chair,Furniture,4,85000.00
+LINE-00158,2026-07-23,Amina Stores,Retail,North,Notebook Pack,Stationery,1,6500.00
+LINE-00159,2026-08-17,Cedar Retail,Retail,East,Ergonomic Chair,Furniture,4,85000.00
+LINE-00160,2026-06-22,Jade Enterprise,Business,West,Office Desk,Furniture,1,120000.00
+LINE-00161,2026-09-17,Evergreen Shop,Retail,North,Bookshelf,Furniture,1,72000.00
+LINE-00162,2026-08-14,Futura Ltd,Business,South,Monitor 24,Electronics,2,135000.00
+LINE-00163,2026-06-17,Lagos Wholesale,Business,South,Office Desk,Furniture,2,120000.00
+LINE-00164,2026-05-17,Horizon Supplies,Business,East,Bookshelf,Furniture,4,72000.00
+LINE-00165,2026-07-07,Cedar Retail,Retail,East,Printer Paper,Stationery,5,11000.00
+LINE-00166,2026-02-10,Delta Trading,Business,West,Bookshelf,Furniture,4,72000.00
+LINE-00167,2026-10-11,Delta Trading,Business,West,Notebook Pack,Stationery,3,6500.00
+LINE-00168,2026-08-23,Horizon Supplies,Business,East,Bookshelf,Furniture,1,72000.00
+LINE-00169,2026-05-30,Cedar Retail,Retail,East,Notebook Pack,Stationery,1,6500.00
+LINE-00170,2026-05-12,Lagos Wholesale,Business,South,Bookshelf,Furniture,4,72000.00
+LINE-00171,2026-05-05,Cedar Retail,Retail,East,Printer Paper,Stationery,1,11000.00
+LINE-00172,2026-10-07,Horizon Supplies,Business,East,Notebook Pack,Stationery,1,6500.00
+LINE-00173,2026-08-28,Evergreen Shop,Retail,North,Office Desk,Furniture,1,120000.00
+LINE-00174,2026-05-06,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,4,85000.00
+LINE-00175,2026-04-01,Kano Merchants,Retail,North,Monitor 24,Electronics,3,135000.00
+LINE-00176,2026-01-26,Horizon Supplies,Business,East,Printer Paper,Stationery,4,11000.00
+LINE-00177,2026-01-07,Cedar Retail,Retail,East,Notebook Pack,Stationery,2,6500.00
+LINE-00178,2026-04-19,Cedar Retail,Retail,East,Laptop Pro,Electronics,1,450000.00
+LINE-00179,2026-07-12,Horizon Supplies,Business,East,Notebook Pack,Stationery,4,6500.00
+LINE-00180,2026-03-28,Bright Ventures,Business,South,Monitor 24,Electronics,4,135000.00
+LINE-00181,2026-10-08,Jade Enterprise,Business,West,Bookshelf,Furniture,2,72000.00
+LINE-00182,2026-07-26,Bright Ventures,Business,South,Notebook Pack,Stationery,1,6500.00
+LINE-00183,2026-07-09,Bright Ventures,Business,South,Printer Paper,Stationery,3,11000.00
+LINE-00184,2026-05-06,Amina Stores,Retail,North,Printer Paper,Stationery,5,11000.00
+LINE-00185,2026-01-20,Ivory Goods,Retail,North,Office Desk,Furniture,2,120000.00
+LINE-00186,2026-06-26,Cedar Retail,Retail,East,Laptop Pro,Electronics,5,450000.00
+LINE-00187,2026-06-23,Amina Stores,Retail,North,Office Desk,Furniture,2,120000.00
+LINE-00188,2026-03-21,Cedar Retail,Retail,East,Notebook Pack,Stationery,5,6500.00
+LINE-00189,2026-04-26,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,4,85000.00
+LINE-00190,2026-07-31,Delta Trading,Business,West,Ergonomic Chair,Furniture,1,85000.00
+LINE-00191,2026-03-18,Horizon Supplies,Business,East,Wireless Mouse,Electronics,5,18000.00
+LINE-00192,2026-06-26,Cedar Retail,Retail,East,Printer Paper,Stationery,3,11000.00
+LINE-00193,2026-01-15,Cedar Retail,Retail,East,Wireless Mouse,Electronics,2,18000.00
+LINE-00194,2026-01-07,Horizon Supplies,Business,East,Wireless Mouse,Electronics,2,18000.00
+LINE-00195,2026-10-04,Evergreen Shop,Retail,North,Printer Paper,Stationery,5,11000.00
+LINE-00196,2026-07-17,Horizon Supplies,Business,East,Bookshelf,Furniture,1,72000.00
+LINE-00197,2026-04-17,Evergreen Shop,Retail,North,Monitor 24,Electronics,3,135000.00
+LINE-00198,2026-04-23,Amina Stores,Retail,North,Monitor 24,Electronics,1,135000.00
+LINE-00199,2026-04-28,Evergreen Shop,Retail,North,Bookshelf,Furniture,3,72000.00
+LINE-00200,2026-09-11,Cedar Retail,Retail,East,Laptop Pro,Electronics,3,450000.00
+LINE-00201,2026-06-12,Delta Trading,Business,West,Laptop Pro,Electronics,5,450000.00
+LINE-00202,2026-02-23,Jade Enterprise,Business,West,Notebook Pack,Stationery,4,6500.00
+LINE-00203,2026-09-13,Cedar Retail,Retail,East,Ergonomic Chair,Furniture,1,85000.00
+LINE-00204,2026-07-27,Kano Merchants,Retail,North,Laptop Pro,Electronics,1,450000.00
+LINE-00205,2026-07-25,Evergreen Shop,Retail,North,Notebook Pack,Stationery,3,6500.00
+LINE-00206,2026-04-27,Cedar Retail,Retail,East,Bookshelf,Furniture,4,72000.00
+LINE-00207,2026-03-22,Evergreen Shop,Retail,North,Office Desk,Furniture,4,120000.00
+LINE-00208,2026-10-01,Delta Trading,Business,West,Wireless Mouse,Electronics,2,18000.00
+LINE-00209,2026-10-12,Horizon Supplies,Business,East,Printer Paper,Stationery,5,11000.00
+LINE-00210,2026-04-02,Jade Enterprise,Business,West,Printer Paper,Stationery,4,11000.00
+LINE-00211,2026-09-23,Lagos Wholesale,Business,South,Office Desk,Furniture,5,120000.00
+LINE-00212,2026-06-19,Evergreen Shop,Retail,North,Notebook Pack,Stationery,5,6500.00
+LINE-00213,2026-08-18,Delta Trading,Business,West,Printer Paper,Stationery,2,11000.00
+LINE-00214,2026-03-23,Amina Stores,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00215,2026-08-19,Cedar Retail,Retail,East,Notebook Pack,Stationery,1,6500.00
+LINE-00216,2026-02-27,Horizon Supplies,Business,East,Ergonomic Chair,Furniture,1,85000.00
+LINE-00217,2026-08-16,Ivory Goods,Retail,North,Laptop Pro,Electronics,3,450000.00
+LINE-00218,2026-08-11,Amina Stores,Retail,North,Monitor 24,Electronics,3,135000.00
+LINE-00219,2026-03-02,Futura Ltd,Business,South,Monitor 24,Electronics,5,135000.00
+LINE-00220,2026-03-29,Golden Market,Retail,West,Printer Paper,Stationery,4,11000.00
+LINE-00221,2026-05-19,Jade Enterprise,Business,West,Wireless Mouse,Electronics,4,18000.00
+LINE-00222,2026-10-13,Horizon Supplies,Business,East,Monitor 24,Electronics,3,135000.00
+LINE-00223,2026-04-18,Ivory Goods,Retail,North,Printer Paper,Stationery,2,11000.00
+LINE-00224,2026-08-26,Evergreen Shop,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00225,2026-07-02,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,5,85000.00
+LINE-00226,2026-09-01,Cedar Retail,Retail,East,Printer Paper,Stationery,5,11000.00
+LINE-00227,2026-09-21,Delta Trading,Business,West,Printer Paper,Stationery,1,11000.00
+LINE-00228,2026-10-14,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,4,85000.00
+LINE-00229,2026-05-05,Bright Ventures,Business,South,Monitor 24,Electronics,4,135000.00
+LINE-00230,2026-04-08,Bright Ventures,Business,South,Office Desk,Furniture,2,120000.00
+LINE-00231,2026-01-28,Delta Trading,Business,West,Monitor 24,Electronics,2,135000.00
+LINE-00232,2026-07-16,Amina Stores,Retail,North,Monitor 24,Electronics,1,135000.00
+LINE-00233,2026-02-18,Golden Market,Retail,West,Ergonomic Chair,Furniture,2,85000.00
+LINE-00234,2026-02-15,Lagos Wholesale,Business,South,Monitor 24,Electronics,5,135000.00
+LINE-00235,2026-02-15,Cedar Retail,Retail,East,Bookshelf,Furniture,3,72000.00
+LINE-00236,2026-09-04,Amina Stores,Retail,North,Bookshelf,Furniture,2,72000.00
+LINE-00237,2026-01-15,Horizon Supplies,Business,East,Wireless Mouse,Electronics,2,18000.00
+LINE-00238,2026-02-21,Golden Market,Retail,West,Office Desk,Furniture,3,120000.00
+LINE-00239,2026-10-01,Jade Enterprise,Business,West,Printer Paper,Stationery,2,11000.00
+LINE-00240,2026-03-20,Futura Ltd,Business,South,Bookshelf,Furniture,4,72000.00
+LINE-00241,2026-02-21,Bright Ventures,Business,South,Office Desk,Furniture,3,120000.00
+LINE-00242,2026-06-16,Futura Ltd,Business,South,Wireless Mouse,Electronics,5,18000.00
+LINE-00243,2026-09-17,Horizon Supplies,Business,East,Ergonomic Chair,Furniture,2,85000.00
+LINE-00244,2026-10-07,Golden Market,Retail,West,Bookshelf,Furniture,1,72000.00
+LINE-00245,2026-03-03,Kano Merchants,Retail,North,Office Desk,Furniture,2,120000.00
+LINE-00246,2026-03-13,Horizon Supplies,Business,East,Printer Paper,Stationery,3,11000.00
+LINE-00247,2026-10-05,Evergreen Shop,Retail,North,Office Desk,Furniture,1,120000.00
+LINE-00248,2026-01-12,Golden Market,Retail,West,Wireless Mouse,Electronics,1,18000.00
+LINE-00249,2026-05-04,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,5,85000.00
+LINE-00250,2026-05-14,Ivory Goods,Retail,North,Monitor 24,Electronics,3,135000.00
+LINE-00251,2026-08-10,Bright Ventures,Business,South,Notebook Pack,Stationery,3,6500.00
+LINE-00252,2026-08-14,Amina Stores,Retail,North,Monitor 24,Electronics,4,135000.00
+LINE-00253,2026-07-06,Cedar Retail,Retail,East,Bookshelf,Furniture,5,72000.00
+LINE-00254,2026-07-10,Horizon Supplies,Business,East,Laptop Pro,Electronics,2,450000.00
+LINE-00255,2026-07-04,Delta Trading,Business,West,Office Desk,Furniture,3,120000.00
+LINE-00256,2026-09-22,Jade Enterprise,Business,West,Ergonomic Chair,Furniture,5,85000.00
+LINE-00257,2026-04-23,Futura Ltd,Business,South,Notebook Pack,Stationery,4,6500.00
+LINE-00258,2026-08-15,Jade Enterprise,Business,West,Monitor 24,Electronics,4,135000.00
+LINE-00259,2026-02-18,Amina Stores,Retail,North,Notebook Pack,Stationery,3,6500.00
+LINE-00260,2026-06-22,Golden Market,Retail,West,Laptop Pro,Electronics,3,450000.00
+LINE-00261,2026-07-25,Horizon Supplies,Business,East,Ergonomic Chair,Furniture,4,85000.00
+LINE-00262,2026-09-03,Golden Market,Retail,West,Office Desk,Furniture,3,120000.00
+LINE-00263,2026-07-09,Jade Enterprise,Business,West,Monitor 24,Electronics,3,135000.00
+LINE-00264,2026-03-03,Kano Merchants,Retail,North,Printer Paper,Stationery,2,11000.00
+LINE-00265,2026-04-12,Ivory Goods,Retail,North,Notebook Pack,Stationery,4,6500.00
+LINE-00266,2026-05-22,Futura Ltd,Business,South,Notebook Pack,Stationery,3,6500.00
+LINE-00267,2026-09-29,Futura Ltd,Business,South,Laptop Pro,Electronics,2,450000.00
+LINE-00268,2026-04-08,Bright Ventures,Business,South,Monitor 24,Electronics,3,135000.00
+LINE-00269,2026-06-02,Cedar Retail,Retail,East,Laptop Pro,Electronics,4,450000.00
+LINE-00270,2026-08-25,Futura Ltd,Business,South,Monitor 24,Electronics,5,135000.00
+LINE-00271,2026-09-29,Jade Enterprise,Business,West,Notebook Pack,Stationery,2,6500.00
+LINE-00272,2026-06-19,Kano Merchants,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00273,2026-10-08,Jade Enterprise,Business,West,Wireless Mouse,Electronics,2,18000.00
+LINE-00274,2026-01-20,Futura Ltd,Business,South,Monitor 24,Electronics,5,135000.00
+LINE-00275,2026-05-31,Delta Trading,Business,West,Bookshelf,Furniture,2,72000.00
+LINE-00276,2026-05-09,Kano Merchants,Retail,North,Monitor 24,Electronics,5,135000.00
+LINE-00277,2026-02-06,Delta Trading,Business,West,Notebook Pack,Stationery,3,6500.00
+LINE-00278,2026-05-25,Cedar Retail,Retail,East,Laptop Pro,Electronics,2,450000.00
+LINE-00279,2026-01-13,Futura Ltd,Business,South,Bookshelf,Furniture,4,72000.00
+LINE-00280,2026-01-10,Amina Stores,Retail,North,Notebook Pack,Stationery,5,6500.00
+LINE-00281,2026-02-07,Ivory Goods,Retail,North,Wireless Mouse,Electronics,3,18000.00
+LINE-00282,2026-07-17,Amina Stores,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00283,2026-06-20,Amina Stores,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00284,2026-06-13,Bright Ventures,Business,South,Bookshelf,Furniture,2,72000.00
+LINE-00285,2026-07-11,Bright Ventures,Business,South,Office Desk,Furniture,3,120000.00
+LINE-00286,2026-06-12,Bright Ventures,Business,South,Bookshelf,Furniture,4,72000.00
+LINE-00287,2026-07-09,Evergreen Shop,Retail,North,Printer Paper,Stationery,5,11000.00
+LINE-00288,2026-08-05,Kano Merchants,Retail,North,Office Desk,Furniture,3,120000.00
+LINE-00289,2026-01-07,Bright Ventures,Business,South,Ergonomic Chair,Furniture,5,85000.00
+LINE-00290,2026-06-16,Evergreen Shop,Retail,North,Notebook Pack,Stationery,4,6500.00
+LINE-00291,2026-04-14,Cedar Retail,Retail,East,Office Desk,Furniture,1,120000.00
+LINE-00292,2026-02-26,Ivory Goods,Retail,North,Ergonomic Chair,Furniture,2,85000.00
+LINE-00293,2026-04-05,Horizon Supplies,Business,East,Printer Paper,Stationery,2,11000.00
+LINE-00294,2026-09-11,Ivory Goods,Retail,North,Laptop Pro,Electronics,5,450000.00
+LINE-00295,2026-07-14,Futura Ltd,Business,South,Bookshelf,Furniture,2,72000.00
+LINE-00296,2026-03-12,Jade Enterprise,Business,West,Bookshelf,Furniture,5,72000.00
+LINE-00297,2026-07-11,Kano Merchants,Retail,North,Bookshelf,Furniture,5,72000.00
+LINE-00298,2026-06-14,Ivory Goods,Retail,North,Monitor 24,Electronics,2,135000.00
+LINE-00299,2026-01-07,Evergreen Shop,Retail,North,Wireless Mouse,Electronics,4,18000.00
+LINE-00300,2026-03-15,Kano Merchants,Retail,North,Wireless Mouse,Electronics,1,18000.00
+LINE-00301,2026-07-19,Horizon Supplies,Business,East,Printer Paper,Stationery,4,11000.00
+LINE-00302,2026-04-24,Cedar Retail,Retail,East,Office Desk,Furniture,5,120000.00
+LINE-00303,2026-06-09,Futura Ltd,Business,South,Office Desk,Furniture,3,120000.00
+LINE-00304,2026-05-15,Delta Trading,Business,West,Laptop Pro,Electronics,2,450000.00
+LINE-00305,2026-08-27,Delta Trading,Business,West,Bookshelf,Furniture,3,72000.00
+LINE-00306,2026-10-11,Kano Merchants,Retail,North,Ergonomic Chair,Furniture,5,85000.00
+LINE-00307,2026-02-18,Cedar Retail,Retail,East,Laptop Pro,Electronics,2,450000.00
+LINE-00308,2026-03-24,Horizon Supplies,Business,East,Notebook Pack,Stationery,2,6500.00
+LINE-00309,2026-05-20,Evergreen Shop,Retail,North,Notebook Pack,Stationery,3,6500.00
+LINE-00310,2026-09-11,Delta Trading,Business,West,Printer Paper,Stationery,4,11000.00
+LINE-00311,2026-09-28,Evergreen Shop,Retail,North,Wireless Mouse,Electronics,3,18000.00
+LINE-00312,2026-02-25,Horizon Supplies,Business,East,Office Desk,Furniture,4,120000.00
+LINE-00313,2026-05-15,Lagos Wholesale,Business,South,Printer Paper,Stationery,1,11000.00
+LINE-00314,2026-09-29,Ivory Goods,Retail,North,Monitor 24,Electronics,1,135000.00
+LINE-00315,2026-03-01,Delta Trading,Business,West,Ergonomic Chair,Furniture,4,85000.00
+LINE-00316,2026-06-27,Kano Merchants,Retail,North,Ergonomic Chair,Furniture,1,85000.00
+LINE-00317,2026-08-07,Horizon Supplies,Business,East,Wireless Mouse,Electronics,5,18000.00
+LINE-00318,2026-01-26,Evergreen Shop,Retail,North,Wireless Mouse,Electronics,2,18000.00
+LINE-00319,2026-01-09,Delta Trading,Business,West,Ergonomic Chair,Furniture,2,85000.00
+LINE-00320,2026-05-12,Evergreen Shop,Retail,North,Notebook Pack,Stationery,2,6500.00
+LINE-00321,2026-07-18,Ivory Goods,Retail,North,Wireless Mouse,Electronics,3,18000.00
+LINE-00322,2026-01-12,Cedar Retail,Retail,East,Laptop Pro,Electronics,1,450000.00
+LINE-00323,2026-02-01,Golden Market,Retail,West,Bookshelf,Furniture,4,72000.00
+LINE-00324,2026-03-02,Jade Enterprise,Business,West,Bookshelf,Furniture,5,72000.00
+LINE-00325,2026-07-05,Amina Stores,Retail,North,Office Desk,Furniture,4,120000.00
+LINE-00326,2026-02-26,Bright Ventures,Business,South,Ergonomic Chair,Furniture,3,85000.00
+LINE-00327,2026-06-26,Jade Enterprise,Business,West,Wireless Mouse,Electronics,4,18000.00
+LINE-00328,2026-01-24,Horizon Supplies,Business,East,Ergonomic Chair,Furniture,3,85000.00
+LINE-00329,2026-09-30,Horizon Supplies,Business,East,Wireless Mouse,Electronics,2,18000.00
+LINE-00330,2026-10-06,Cedar Retail,Retail,East,Office Desk,Furniture,4,120000.00
+LINE-00331,2026-07-03,Amina Stores,Retail,North,Ergonomic Chair,Furniture,3,85000.00
+LINE-00332,2026-01-20,Jade Enterprise,Business,West,Printer Paper,Stationery,3,11000.00
+LINE-00333,2026-01-10,Horizon Supplies,Business,East,Printer Paper,Stationery,4,11000.00
+LINE-00334,2026-04-04,Amina Stores,Retail,North,Monitor 24,Electronics,3,135000.00
+LINE-00335,2026-03-18,Amina Stores,Retail,North,Printer Paper,Stationery,3,11000.00
+LINE-00336,2026-10-03,Ivory Goods,Retail,North,Notebook Pack,Stationery,2,6500.00
+LINE-00337,2026-07-14,Ivory Goods,Retail,North,Printer Paper,Stationery,5,11000.00
+LINE-00338,2026-08-19,Evergreen Shop,Retail,North,Wireless Mouse,Electronics,2,18000.00
+LINE-00339,2026-02-07,Jade Enterprise,Business,West,Laptop Pro,Electronics,1,450000.00
+LINE-00340,2026-01-02,Kano Merchants,Retail,North,Laptop Pro,Electronics,2,450000.00
+LINE-00341,2026-05-08,Delta Trading,Business,West,Ergonomic Chair,Furniture,1,85000.00
+LINE-00342,2026-03-01,Kano Merchants,Retail,North,Wireless Mouse,Electronics,4,18000.00
+LINE-00343,2026-04-01,Futura Ltd,Business,South,Ergonomic Chair,Furniture,1,85000.00
+LINE-00344,2026-10-15,Amina Stores,Retail,North,Bookshelf,Furniture,3,72000.00
+LINE-00345,2026-10-07,Bright Ventures,Business,South,Bookshelf,Furniture,2,72000.00
+LINE-00346,2026-05-02,Jade Enterprise,Business,West,Printer Paper,Stationery,5,11000.00
+LINE-00347,2026-05-19,Horizon Supplies,Business,East,Office Desk,Furniture,4,120000.00
+LINE-00348,2026-01-29,Cedar Retail,Retail,East,Notebook Pack,Stationery,4,6500.00
+LINE-00349,2026-07-14,Jade Enterprise,Business,West,Office Desk,Furniture,5,120000.00
+LINE-00350,2026-08-16,Ivory Goods,Retail,North,Monitor 24,Electronics,1,135000.00
+LINE-00351,2026-02-24,Golden Market,Retail,West,Bookshelf,Furniture,3,72000.00
+LINE-00352,2026-10-09,Lagos Wholesale,Business,South,Notebook Pack,Stationery,5,6500.00
+LINE-00353,2026-03-20,Ivory Goods,Retail,North,Notebook Pack,Stationery,3,6500.00
+LINE-00354,2026-07-02,Evergreen Shop,Retail,North,Laptop Pro,Electronics,5,450000.00
+LINE-00355,2026-09-15,Delta Trading,Business,West,Monitor 24,Electronics,3,135000.00
+LINE-00356,2026-05-25,Golden Market,Retail,West,Monitor 24,Electronics,3,135000.00
+LINE-00357,2026-05-13,Ivory Goods,Retail,North,Wireless Mouse,Electronics,5,18000.00
+LINE-00358,2026-07-16,Lagos Wholesale,Business,South,Bookshelf,Furniture,5,72000.00
+LINE-00359,2026-02-08,Kano Merchants,Retail,North,Notebook Pack,Stationery,2,6500.00
+LINE-00360,2026-05-30,Bright Ventures,Business,South,Laptop Pro,Electronics,3,450000.00
